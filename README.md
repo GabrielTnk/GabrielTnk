@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Gabriel Tanaka<br/>Hi 👋, I'm Gabriel Tanaka</h1>
-<h3 align="center">Contador apaixonado por análise de dados no mundo digital<br/>Accountant passionate about data analysis worldwide.</h3>
+<h3 align="center">Contador apaixonado por análise de dados no mundo digital<br/>Accountant passionate about data analysis in the digital world</h3>
 
 ![Tanaka GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTnk&show_icons=true&theme=tokyonight)
 
