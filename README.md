@@ -4,7 +4,7 @@
 <!---
 ![Tanaka GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTnk&show_icons=true&theme=tokyonight)
 --->
-## Minhas Habilidades | My Skills 
+<h3 align="center">Minhas Habilidades | My Skills</h3>
 ### Linguages e Feramentas | Languages and Tools
 <!---
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
