@@ -15,6 +15,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 --->
+
 <h2 align="center">Sobre mim | About me</h2>
 
 [pt-br] Contador profissional, entusiasta e estudioso da aplicação da tecnologia para análise de dados e otimização de processos em empresas. Comprometido em aprimorar a eficiência e a produtividade por meio da inovação tecnológica. <br/>
