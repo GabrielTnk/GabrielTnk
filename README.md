@@ -4,8 +4,8 @@
 <!---
 ![Tanaka GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTnk&show_icons=true&theme=tokyonight)
 --->
-<h1 align="center">Minhas Habilidades | My Skills</h1>
-<h2 align="center">Linguages e Feramentas | Languages and Tools</h2>
+<h2 align="center">Minhas Habilidades | My Skills</h2>
+<h3 align="center">Linguages e Feramentas | Languages and Tools</h3>
 <!---
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 --->
@@ -15,8 +15,7 @@
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 --->
-
-## Sobre mim | About me
+<h2 align="center">Sobre mim | About me</h2>
 [pt-br] Contador profissional, entusiasta e estudioso da aplicação da tecnologia para análise de dados e otimização de processos em empresas. Comprometido em aprimorar a eficiência e a produtividade por meio da inovação tecnológica. <br/>
 [en] Professional accountant, enthusiast, and avid learner in the application of technology for data analysis and process optimization across various industries. Committed to enhancing efficiency and productivity through technological innovation.
 
@@ -24,8 +23,7 @@
 - 💬 Pergunte-me sobre **Excel, VBA, Power BI e Python** | Ask me about Excel, VBA, Power BI, and Python.
 - 📄 Saiba mais sobre minhas experiências em | Learn more about my experiences at [https://www.linkedin.com/in/g-tanaka](https://www.linkedin.com/in/g-tanaka)
 
-#### Entre em contato comigo | Contact me
-
+<h2 align="center">Entre em contato comigo | Contact me</h2>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-tanaka)
 [![Telgram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gabrieltnk)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gtanaka1@hotmail.com)
