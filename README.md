@@ -16,8 +16,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 --->
 <h2 align="center">Sobre mim | About me</h2>
+
 [pt-br] Contador profissional, entusiasta e estudioso da aplicação da tecnologia para análise de dados e otimização de processos em empresas. Comprometido em aprimorar a eficiência e a produtividade por meio da inovação tecnológica. <br/>
-[en] Professional accountant, enthusiast, and avid learner in the application of technology for data analysis and process optimization across various industries. Committed to enhancing efficiency and productivity through technological innovation.<br/>
+[en] Professional accountant, enthusiast, and avid learner in the application of technology for data analysis and process optimization across various industries. Committed to enhancing efficiency and productivity through technological innovation.
+
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning** | Currently, I am learning Python and Machine Learning.
 - 💬 Pergunte-me sobre **Excel, VBA, Power BI e Python** | Ask me about Excel, VBA, Power BI, and Python.
 - 📄 Saiba mais sobre minhas experiências em | Learn more about my experiences at [https://www.linkedin.com/in/g-tanaka](https://www.linkedin.com/in/g-tanaka)
